@@ -14,8 +14,8 @@ SIGDAT is run by consensus vote of its organizing committee, consisting of the o
 ## Officers in 2026
 
 - **President**: Kai-Wei Chang, UCLA, USA<br/>
-- **Vice President**: Raquel Fernández, University of Amsterdam, The Netherlands<br/>
-- **Vice President-Elect**: Yue Zhang, Westlake University, Chine<br/>
+- **Vice President**: Raquel Fernández, European Commission, Joint Research Centre & University of Amsterdam, The Netherlands<br/>
+- **Vice President-Elect**: Yue Zhang, Westlake University, China<br/>
 - **Secretary-Treasurer**: Jose Camacho-Collados, Cardiff University, UK<br/>
 
 [Previous Officers](/officers)
